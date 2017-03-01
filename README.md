@@ -1,5 +1,5 @@
 # iApis
-api server
+apI server
 
 /*
 
